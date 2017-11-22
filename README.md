@@ -30,7 +30,7 @@ Thanks to :
 - AlfathDirk
 - team TCR
 - fajrinard
-_ Farzain
+- Farzain
 - Koplaxs
 - dan para mastah/programmer lainnya
 
