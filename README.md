@@ -15,11 +15,11 @@ Cara Run bot tanpa pc atau di Android :
 - pkg install git
 - pkg install nano
 - git clone https://github.com/1DaffaN3Kalani/Bot4Protect
-- cd Line-TCR
-- nano line-tcr.py
+- cd Bot4Protect
+- nano Bot4Protect.py
 - (isi admin=["YOUR_MID"], ganti kata YOUR_MID dengan mid akun utama yang ingin dijadikan admin) (biarkan tanda kutipnya)
 - (lalu save; ctrl X + Y + enter) (gunakan Hacker's Keyboard, download di playstore)
-- python2 line-tcr.py
+- python2 Bot4Protect.py
 - (login link/qr ke akun bot)
 - Selesai
 
@@ -29,7 +29,9 @@ Thanks to :
 - merkremont
 - AlfathDirk
 - team TCR
--Koplaxs
+- fajrinard
+_ Farzain
+- Koplaxs
 - dan para mastah/programmer lainnya
 
 #Radisti Team Bot
